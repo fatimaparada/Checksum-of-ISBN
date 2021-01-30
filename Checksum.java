@@ -1,6 +1,5 @@
 /*
 Author: Fatima Parada-Taboada
-Net id: fnp170130
 Program overview: This program calculates the checksum of and ISBN-id using the first 9 digits of the ISBN.
 */ 
 
